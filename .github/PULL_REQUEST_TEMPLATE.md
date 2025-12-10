@@ -2,11 +2,11 @@
 
 _Check all applicable._
 
-- [ ] Feature
-- [ ] Bug Fix
-- [ ] Refactor
-- [ ] Optimization
-- [ ] Documentation Update
+- [ ] 🖍 Feature
+- [ ] 🐞 Bug Fix
+- [ ] 💻Refactor
+- [ ] 📈Optimization
+- [ ] 📝Documentation Update
 
 ## Description
 
