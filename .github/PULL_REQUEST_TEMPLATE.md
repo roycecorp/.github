@@ -1,16 +1,16 @@
 ## What type of PR is this?
 
-_Check all applicable._
+Check all applicable.
 
 - [ ] 🖍 Feature
 - [ ] 🐞 Bug Fix
-- [ ] 💻Refactor
-- [ ] 📈Optimization
-- [ ] 📝Documentation Update
+- [ ] 💻 Refactor
+- [ ] 📈 Optimization
+- [ ] 📝 Documentation Update
 
 ## Description
 
-_Please replace this line with a description._
+_A clear and concise description of what the PR is._
 
 ## Related Tickets & Documents
 
@@ -19,9 +19,7 @@ _Please replace this line with a description._
 
 ## QA Instructions, Screenshots, Recordings
 
-_Please replace this line with instructions on how to test your changes, a note
-on the devices and browsers this has been tested on, as well as any relevant
-images for UI changes._
+_Instructions on how to test your changes, as well as any relevant images for UI changes._
 
 ## [Optional] Are there any post deployment tasks we need to perform?
 
