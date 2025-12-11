@@ -6,6 +6,7 @@ Check all applicable.
 - [ ] 🐞 Bug Fix
 - [ ] 💻 Refactor
 - [ ] 📈 Optimization
+- [ ] 📚 Library Update
 - [ ] 📝 Documentation Update
 
 ## Description
