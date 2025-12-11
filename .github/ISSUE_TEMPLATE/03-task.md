@@ -1,6 +1,6 @@
 ---
 name: "📒 Task"
-description: File a task.
+description: "File a task."
 title: "[TASK] "
 labels: ["task"]
 ---
