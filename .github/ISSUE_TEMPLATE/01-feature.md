@@ -1,6 +1,6 @@
 ---
 name: "🖍 Feature"
-description: File a feature request.
+about: "File a feature request."
 title: "[FEATURE] "
 labels: ["enhancement"]
 ---
