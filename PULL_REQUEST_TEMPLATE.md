@@ -24,4 +24,6 @@ _Instructions on how to test your changes, as well as any relevant images for UI
 
 ## [Optional] Are there any post deployment tasks we need to perform?
 
+## [Optional] Who should we notify after it's deployed?
+
 ## [Optional] What gif best describes this PR or how it makes you feel?
